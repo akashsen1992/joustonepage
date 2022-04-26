@@ -157,6 +157,7 @@ header {
 
 .store-wrapper {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .store-wrapper img {
@@ -193,6 +194,7 @@ header {
   width: 900px;
   max-width: 100%;
   margin: 0 auto;
+  padding: 0;
 }
 
 .lists li {
@@ -336,4 +338,9 @@ footer-list li {
       width: 100%;
       margin: 2% 0;
   }
+  .store-wrapper img {
+    width: 120px;
+    margin-right: 10px;
+  }
+  
 }

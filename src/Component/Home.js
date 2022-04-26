@@ -8,8 +8,6 @@ const Home = () => {
     const myStyle={
         backgroundImage: 
  "url('./bg-1.webp')",
-        height:'100vh',
-        marginTop:'-70px',
         fontSize:'50px',
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
