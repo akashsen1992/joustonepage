@@ -112,6 +112,35 @@ header {
   margin-right: 14px;
 }
 
+.btn-see {
+  background: #ff5200;
+  padding: 16px 26px;
+  margin-bottom: 20px;
+  border-radius: 40px;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-size: 18px;
+  text-decoration: none !important;
+}
+
+.btn-connect {
+  font-size: 14px;
+  color: #fff;
+  border: 0px solid #000;
+  border-radius: 34px;
+  padding: 10px 20px;
+  background: #00a3e1;
+  text-decoration: none !important;
+}
+.right-section img {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
 .hero-bg p {
   font-size: 14px;
   color: #fff;
