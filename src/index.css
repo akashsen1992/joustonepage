@@ -344,3 +344,14 @@ footer-list li {
   }
   
 }
+
+.privacypolicy {
+  margin: 50px 0;
+}
+.privacypolicy a {
+  color: #000;
+}
+.privacypolicy a:hover {
+  color: #000;
+  text-decoration: underline;
+}
