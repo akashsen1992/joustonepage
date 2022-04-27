@@ -3,6 +3,7 @@ import Slider from "react-slick";
 const Slidersection = () => {
   const settings = {
     dots: true,
+    arrows:false,
     infinite: true,
     speed: 500
   };
