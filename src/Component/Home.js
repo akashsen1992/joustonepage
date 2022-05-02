@@ -25,7 +25,7 @@ const Home = () => {
                             <a href="#" className="btn-see"><img src="./ic-video.png" /> See Videos</a>
                             <h5>DOWNLOAD THE APP</h5>
                             <div className="store-wrapper">
-                                <a href="#"><img src="./ic-appstore.png" /></a>
+                                <a href="https://apps.apple.com/us/app/JoustVideo/id1611319643"><img src="./ic-appstore.png" /></a>
                                 <a href="https://play.google.com/store/apps/details?id=com.joust.nft" target="_blank"><img src="./ic-playstore.png" /></a>
                             </div>
                         </div>
