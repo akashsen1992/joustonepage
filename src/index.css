@@ -218,7 +218,8 @@ header {
   position: relative;
 }
 
-.lists li .imgbox img {
+.lists li .imgbox img,
+.lists li .imgbox video {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -257,12 +258,15 @@ header {
   color: #fff;
   z-index: 9;
   padding: 14px 16px;
+  margin: 0;
 }
 
-.lists li .imbtxt img {
+.lists li .imbtxt p {
   width: 18px;
   z-index: 9;
   margin-right: 14px;
+  color: #fff;
+  margin-bottom: 0;
 }
 
 .footer-section {

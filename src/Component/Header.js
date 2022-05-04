@@ -13,7 +13,7 @@ const Header = () => {
             <div className="col-md-12">
                 <div className="d-flex justify-content-between align-items-center">
                    <Link to='/'> <img src="./joust-logo.svg" className="brand-logo" onClick={scrolltoTop()} /></Link>
-                    <a href="https://bestjoust.com/#/" className="btn-connect">Connect to Joust</a>
+                    <a href="https://bestjoust.com/#/" className="btn-connect">Joust NFT Marketplace</a>
                 </div>
             </div>
         </div>
