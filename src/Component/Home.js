@@ -8,7 +8,7 @@ const Home = () => {
     const[videos,setvideos] = useState([]);
    
     useEffect(()=>{
-        axios.get(`https://share.bestjoust.com/api/admin/allvideos`)
+        axios.get(`https://apiv2.bestjoust.com/api/admin/allvideos`)
         .then(res => {
           const allvideos = res.data.data;
           setvideos(allvideos)
